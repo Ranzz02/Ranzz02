@@ -1,4 +1,4 @@
-# Rasmus Räihä
+# 👋 Hi i'm Rasmus Räihä
 
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGk4ZnkwZ2RmMDZhdTFpZWM5dnVmN2hpbDNjeW14ZWoyeWo3MW5yaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/USV0ym3bVWQJJmNu3N/giphy.gif" width="100"/>
@@ -15,7 +15,7 @@
 
 ---
 
-## 👋 Hi there welcome to my Github Page
+## Short description
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Finland.
 
@@ -68,6 +68,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/> 
 </div>
 
+---
+
+## :fire: My stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ranzz02&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ranzz)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 📑 Current Personal Projects:
