@@ -72,9 +72,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ## :fire: My stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ranzz02&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ranzz02&theme=tokyonight)](https://git.io/streak-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ranzz)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ranzz&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 📑 Current Personal Projects:
